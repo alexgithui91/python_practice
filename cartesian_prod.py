@@ -1,5 +1,6 @@
 from itertools import product
 
+# break input down using map
 a = list(map(int, input().split()))
 b = list(map(int, input().split()))
 
